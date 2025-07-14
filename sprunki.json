@@ -1,102 +1,67 @@
 {
   "categories": [
     {
-      "name": "Phases",
+      "name": "🎧 Main Quest: Core Phases",
       "items": [
         {
-          "name": "sprunki-phase-9",
-          "link": "https://iframegame.com/embed/sprunki-phase-9/index.html",
-          "image": "https://cdn.sprunki.com/img/sprunki-phase-9-game-m200x200.webp"
+          "name": "🎼 Phase 3: Classic Drop",
+          "link": "https://img.sprunki.net/game/Sprunki%20Phase3.html",
+          "image": "https://img.sprunki.net/img/sprunki-phase-3-thumb.webp"
         },
         {
-          "name": "Sprunki Phase Brainrot",
-          "link": "https://html5.gamedistribution.com/a18e198d63f54be485630d1a8d773260/?gd_sdk_referrer_url=https%3A%2F%2Fwww.miniplay.com%2Fgame%2Fsprunki-phase-brainrot&mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=253933&mp_game_uid=sprunki-phase-brainrot&mp_game_url=https%3A%2F%2Fwww.miniplay.com%2Fembed%2Fsprunki-phase-brainrot&mp_int=1&mp_locale=en_US&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_site_name=miniplay.com&mp_site_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_timezone=Africa%2FCasablanca&mp_view_type=",
+          "name": "🚀 Phase 7: Galaxy Bounce",
+          "link": "https://iframegame.com/embed/sprunki-phase-7/index.html",
+          "image": "https://cdn.sprunki.com/img/sprunki-phase-7-placeholder.webp"
+        },
+        {
+          "name": "🔥 Phase 9: Final Wave",
+          "link": "https://iframegame.com/embed/sprunki-phase-9/index.html",
+          "image": "https://cdn.sprunki.com/img/sprunki-phase-9-game-m200x200.webp"
+        }
+      ]
+    },
+    {
+      "name": "💀 Meme Madness: Remix Arena",
+      "items": [
+        {
+          "name": "🧠 Brainrot Beats (LOL Mode)",
+          "link": "https://html5.gamedistribution.com/a18e198d63f54be485630d1a8d773260/?gd_sdk_referrer_url=https%3A%2F%2Fwww.miniplay.com%2Fgame%2Fsprunki-phase-brainrot",
           "image": "https://www5.minijuegosgratis.com/v3/games/thumbnails/253933_7_sq.jpg"
         },
         {
-          "name": "Sprunki C.A.T.S",
-          "link": "https://ext.minijuegosgratis.com/sprunki-c-a-t/index.html?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=253711&mp_game_uid=sprunki-cats&mp_game_url=https%3A%2F%2Fwww.miniplay.com%2Fembed%2Fsprunki-cats&mp_int=1&mp_locale=en_US&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_site_name=miniplay.com&mp_site_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_timezone=Africa%2FCasablanca&mp_view_type=",
-          "image": "https://www4.minijuegosgratis.com/v3/games/thumbnails/253711_7_sq.jpg"
+          "name": "🎹 Megalovania Mixdown",
+          "link": "https://ext.minijuegosgratis.com/sprunki-megalovania/index.html",
+          "image": "https://www5.minijuegosgratis.com/v3/games/thumbnails/252134_7_sq.jpg"
+        }
+      ]
+    },
+    {
+      "name": "🌀 Side Quest: Glitch & Puzzle Realms",
+      "items": [
+        {
+          "name": "🧬 Sprunkilairity: Rhythm Riddle",
+          "link": "https://ext.minijuegosgratis.com/sprunkilairity/index.html",
+          "image": "https://www4.minijuegosgratis.com/v3/games/thumbnails/251538_7_sq.jpg"
         },
         {
-          "name": "Sprunki Pyramixed",
-          "link": "https://ext.minijuegosgratis.com/sprunki-pyramixed/game.html?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=251922&mp_game_uid=sprunki-pyramixed&mp_game_url=https%3A%2F%2Fwww.miniplay.com%2Fembed%2Fsprunki-pyramixed&mp_int=1&mp_locale=en_US&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_site_name=miniplay.com&mp_site_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_timezone=Africa%2FCasablanca&mp_view_type=",
+          "name": "🧩 Pyramixed: Temple Jam",
+          "link": "https://ext.minijuegosgratis.com/sprunki-pyramixed/game.html",
           "image": "https://www1.minijuegosgratis.com/v3/games/thumbnails/251922_7_sq.jpg"
         }
       ]
     },
     {
-      "name": "Education",
+      "name": "👑 Boss Battles: Showdown Stages",
       "items": [
         {
-          "name": "Coursera",
-          "link": "https://coursera.org",
-          "image": "https://coursera.org/logo.png"
+          "name": "🐾 C.A.T.S – Mecha Rhythm War",
+          "link": "https://ext.minijuegosgratis.com/sprunki-c-a-t/index.html",
+          "image": "https://www4.minijuegosgratis.com/v3/games/thumbnails/253711_7_sq.jpg"
         },
         {
-          "name": "edX",
-          "link": "https://edx.org",
-          "image": "https://edx.org/logo.png"
-        },
-        {
-          "name": "Khan Academy",
-          "link": "https://khanacademy.org",
-          "image": "https://khanacademy.org/logo.png"
-        },
-        {
-          "name": "Udemy",
-          "link": "https://udemy.com",
-          "image": "https://udemy.com/logo.png"
-        }
-      ]
-    },
-    {
-      "name": "News",
-      "items": [
-        {
-          "name": "BBC",
-          "link": "https://bbc.com",
-          "image": "https://bbc.com/logo.png"
-        },
-        {
-          "name": "CNN",
-          "link": "https://cnn.com",
-          "image": "https://cnn.com/logo.png"
-        },
-        {
-          "name": "Reuters",
-          "link": "https://reuters.com",
-          "image": "https://reuters.com/logo.png"
-        },
-        {
-          "name": "Al Jazeera",
-          "link": "https://aljazeera.com",
-          "image": "https://aljazeera.com/logo.png"
-        }
-      ]
-    },
-    {
-      "name": "Entertainment",
-      "items": [
-        {
-          "name": "Netflix",
-          "link": "https://netflix.com",
-          "image": "https://netflix.com/logo.png"
-        },
-        {
-          "name": "YouTube",
-          "link": "https://youtube.com",
-          "image": "https://youtube.com/logo.png"
-        },
-        {
-          "name": "Spotify",
-          "link": "https://spotify.com",
-          "image": "https://spotify.com/logo.png"
-        },
-        {
-          "name": "Disney+",
-          "link": "https://disneyplus.com",
-          "image": "https://disneyplus.com/logo.png"
+          "name": "🌭 Mustard Madness – Sauce Overdrive",
+          "link": "https://iframegame.com/embed/sprunki-mustard/index.html",
+          "image": "https://cdn.sprunki.com/img/sprunki-mustard-placeholder.webp"
         }
       ]
     }
