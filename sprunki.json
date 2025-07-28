@@ -7,7 +7,10 @@
           "name": "🎼 Phase 3: Classic Drop",
           "link": "https://html5.gamedistribution.com/7fd84263f71649d1915ce9f528d3ad5c/",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSJST-MDKAvRFkuwCydZiN9vWmw-xPp3z7A&s",
-          "background": "https://raw.githubusercontent.com/SIMON41246/Sprunki-Games/refs/heads/main/backgroud.png"
+          "background": "https://raw.githubusercontent.com/SIMON41246/Sprunki-Games/refs/heads/main/backgroud.png",
+          "onboard1": "https://raw.githubusercontent.com/SIMON41246/Sprunki-Games/refs/heads/main/photo_2025-07-25_02-08-15.jpg",
+          "onboard2": "https://raw.githubusercontent.com/SIMON41246/Sprunki-Games/refs/heads/main/photo_2025-07-25_02-08-21.jpg",
+          "onboard3": "https://raw.githubusercontent.com/SIMON41246/Sprunki-Games/refs/heads/main/photo_2025-07-25_02-08-21%20copy.jpg"
         }
       ]
     }
